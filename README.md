@@ -86,3 +86,11 @@
   - **Important Words for Sentiment Classification**: Top 20 significant words influencing sentiment classification.  
   - **City-Level SHAP Analysis**: Sentiment distribution by city (Top 10 cities).  
 - **Design**: Enhances trust in predictions with interpretable insights into the factors affecting AI decisions.  
+
+![image alt](https://github.com/Adwitiya2104/EpiSentinel/blob/c64b6147e8ad9973d43973b22dc720896dc1bd2c/ss8.jpeg)
+Sure! Here's a concise bullet-point description of the content in the image:
+
+- **EpiSentinel** is an AI-driven early warning system for epidemics.  
+- It analyzes **social media data** and **search trends** in real time.  
+- Designed to **detect** and **predict disease outbreaks**.  
+- Enables **timely intervention** by providing early alerts.
