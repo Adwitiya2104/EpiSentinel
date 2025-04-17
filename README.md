@@ -74,3 +74,15 @@
   - **Risk Analysis Heatmap**: Highlights top 50 US cities based on normalized COVID risk (Twitter-based).  
   - **Sentiment Distribution**: Displays compound sentiment scores from Twitter data.  
 - **Design**: Comprehensive dashboard with heatmap and sentiment analysis for evaluating epidemic risks using social media trends.
+
+![image alt](https://github.com/Adwitiya2104/EpiSentinel/blob/d499380a7b6497379165b2a61c443d0d7359c285/ss7.jpeg)
+- **Page Title**: Explainable AI Analysis  
+- **Purpose**: Utilizes Explainable AI (XAI) to predict and monitor disease outbreaks with transparency.  
+- **Key Features**:  
+  - **Model Used**: Random Forest Classifier with 91% accuracy.  
+  - **Most Important Word**: "Panic".  
+  - **Explainability Method**: SHAP (Shapley Additive Explanations).  
+- **Visualizations**:  
+  - **Important Words for Sentiment Classification**: Top 20 significant words influencing sentiment classification.  
+  - **City-Level SHAP Analysis**: Sentiment distribution by city (Top 10 cities).  
+- **Design**: Enhances trust in predictions with interpretable insights into the factors affecting AI decisions.  
