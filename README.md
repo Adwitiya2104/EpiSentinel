@@ -62,3 +62,17 @@
   - **Trends Over Time**: Line graph tracking search term interest across days.  
   - **Correlation Between Symptoms**: Heatmap showing relationships between searched symptoms (e.g., COVID and flu).  
 - **Design**: Interactive dashboard with clear metrics and graphical insights into epidemic-related search trends.
+
+![image alt](https://github.com/Adwitiya2104/EpiSentinel/blob/b684de39bef856876d94c78733f00cc1015ef3d3/ss6.jpeg_)
+- **Page Title**: Cumulative Risk Evaluation  
+- **Purpose**: Analyzes social media data from four platforms for epidemic-related global trends, including views, likes, and sentiment.  
+- **Metrics**:  
+  - **Social Media Apps Used**: 4  
+  - **Highest Engagement**: YouTube  
+  - **Lowest Engagement**: Reddit  
+- **Visualizations**:  
+  - **Risk Analysis Heatmap**: Highlights top 50 US cities based on normalized COVID risk (Twitter-based).  
+  - **Sentiment Distribution**: Displays compound sentiment scores from Twitter data.  
+- **Design**: Comprehensive dashboard with heatmap and sentiment analysis for evaluating epidemic risks using social media trends.
+
+- 
