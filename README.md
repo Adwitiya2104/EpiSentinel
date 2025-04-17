@@ -50,3 +50,15 @@
   - **Sentiment Trend**: Bar chart showing positive, neutral, and negative sentiment distribution.  
   - **Data Overview**: Table with sentiment counts and Reddit post excerpts.  
 - **Design**: Sleek and interactive layout offering insights into Reddit's epidemic-related discussions.
+
+![image alt](https://github.com/Adwitiya2104/EpiSentinel/blob/c2bd554be58dda1865d009d99f8618c32aabcaf1/ss5.jpeg)
+- **Page Title**: Epidemic Search Trends  
+- **Purpose**: Tracks Google search trends related to epidemics for early signal detection and regional spikes.  
+- **Metrics**:  
+  - **Search Spike**: +132%  
+  - **Top Region**: India  
+  - **Most Searched**: "flu symptoms"  
+- **Visualizations**:  
+  - **Trends Over Time**: Line graph tracking search term interest across days.  
+  - **Correlation Between Symptoms**: Heatmap showing relationships between searched symptoms (e.g., COVID and flu).  
+- **Design**: Interactive dashboard with clear metrics and graphical insights into epidemic-related search trends.
