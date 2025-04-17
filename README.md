@@ -63,7 +63,7 @@
   - **Correlation Between Symptoms**: Heatmap showing relationships between searched symptoms (e.g., COVID and flu).  
 - **Design**: Interactive dashboard with clear metrics and graphical insights into epidemic-related search trends.
 
-
+![image alt](https://github.com/Adwitiya2104/EpiSentinel/blob/6a1626ba952d2dd8e1e9e31ef2b1ceb75b5a6142/ss6.jpeg)
 - **Page Title**: Cumulative Risk Evaluation  
 - **Purpose**: Analyzes social media data from four platforms for epidemic-related global trends, including views, likes, and sentiment.  
 - **Metrics**:  
