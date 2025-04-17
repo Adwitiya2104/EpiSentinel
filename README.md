@@ -24,3 +24,16 @@
   - Clean, data-centric layout with dark background for focus.  
   - Highlights key statistics and sentiment trends prominently.  
 - **Navigation**: Integrated with the EpiSentinel system for social and risk analysis.  
+
+![image alt](https://github.com/Adwitiya2104/EpiSentinel/blob/e7f2c657ccbca9ddfc597d164ae0ab2609e52c47/ss3.jpeg)
+- **Page Title**: Epidemic Mentions on Twitter  
+- **Purpose**: Tracks epidemic-related tweets, analyzing retweet volume, sentiment trends, and hashtags over time.  
+- **Metrics**:  
+  - **Total Tweets**: 5.2K  
+  - **Positive Sentiment**: 48%  
+  - **Negative Sentiment**: 24%  
+- **Visualizations**:  
+  - **Data Overview**: Table of tweets, including user details, location, and content.  
+  - **Sentiment Distribution**: Bar chart showing positive, neutral, and negative sentiment trends.  
+  - **Word Cloud**: Highlights frequently mentioned words and hashtags.  
+- **Design**: Clean, structured layout with a focus on detailed analytics and user-friendly navigation.
