@@ -5,9 +5,9 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Initialize Reddit API connection
-reddit = praw.Reddit(client_id='t3A0U3jH3vDhsHYnOcelpg',
-    client_secret='NVs2TBn94PUgyp1qJTVWwSxWmlk5pw',
-    user_agent='Sentiment Analyzer by u/Quiet-Mycologist-349 v1.0')
+reddit = praw.Reddit(client_id='',
+    client_secret='',
+    user_agent='')
 
 # Define search queries and the number of posts to retrieve
 queries = ["flu", "covid", "fever", "rash", "fatigue", "virus", "outbreak", "pneumonia", 
