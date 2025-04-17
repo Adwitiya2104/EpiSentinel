@@ -37,3 +37,16 @@
   - **Sentiment Distribution**: Bar chart showing positive, neutral, and negative sentiment trends.  
   - **Word Cloud**: Highlights frequently mentioned words and hashtags.  
 - **Design**: Clean, structured layout with a focus on detailed analytics and user-friendly navigation.
+
+![image alt](https://github.com/Adwitiya2104/EpiSentinel/blob/1e47064b2f88499583629468fe31b30d5ce11fe2/ss4.jpeg)
+- **Page Title**: Epidemic Mentions on Reddit  
+- **Purpose**: Monitors Reddit threads discussing epidemics, analyzing sentiment trends, upvotes, comment counts, and post volume.  
+- **Metrics**:  
+  - **Total Mentions**: 3.8K  
+  - **Positive Sentiment**: 24%  
+  - **Negative Sentiment**: 47%  
+- **Visualizations**:  
+  - **Mentions by Location**: Heatmap highlighting global activity.  
+  - **Sentiment Trend**: Bar chart showing positive, neutral, and negative sentiment distribution.  
+  - **Data Overview**: Table with sentiment counts and Reddit post excerpts.  
+- **Design**: Sleek and interactive layout offering insights into Reddit's epidemic-related discussions.
